@@ -1,0 +1,130 @@
+/* // Extra large devices */
+@media(min-width:1200px) {
+    .div1 {
+        width: 430px;
+    }
+    img {
+        width: 206px;
+    }
+    .div2 {
+         width: 200px; 
+        font-size: 21px;
+        
+    }
+    #readfullnews {
+        font-size:20px;
+      }
+      form {
+        margin-right: 50px;
+      }
+
+}
+
+/* // Large devices */
+@media(min-width:992px) and (max-width:1199px) {
+    .div1 {
+        width: 314px;
+    }
+    img {
+        width: 292px;
+    }
+    .div2 {
+        /* width: 200px; */
+        font-size: 17px;
+        text-align: justify;
+    }
+    #readfullnews {
+        font-size:20px;
+      }
+      form {
+        margin-right: 50px;
+      }
+
+}
+
+/* // tablet  devices laptop devices */
+@media(min-width:768px) and (max-width:991px) {
+    .div1 {
+        width: 232px;
+    }
+    img {
+        width: 210px;
+    }
+    .div2 {
+        /* width: 200px; */
+        font-size: 17px;
+        text-align: justify;
+    }
+    #readfullnews {
+        font-size:15px;
+      }
+      form {
+        margin-right: 10px;
+      }
+
+}
+
+/* // mobile landscape devices landscape phones*/
+@media(min-width:576px) and (max-width:767px) {
+    .div1 {
+        width: 445px;
+    }
+    img {
+        width: 220px;
+    }
+    .div2 {
+         width: 200px; 
+        font-size: 21px;
+        
+    }
+    #readfullnews {
+        font-size:20px;
+      }
+      form {
+        margin-right: 50px;
+      }
+}
+
+/* // mobile  devices phones*/
+@media(min-width:480px) and (max-width:575px) {
+    .div1 {
+        width: 445px;
+    }
+    img {
+        width: 220px;
+    }
+    .div2 {
+         width: 200px; 
+        font-size: 21px;
+        
+    }
+    #readfullnews {
+        font-size:20px;
+      }
+      form {
+        margin-right: 50px;
+      }
+
+}
+
+/* // mobile  devices phones 480px */
+@media(min-width:320px) and (max-width:479px) {
+    .div1 {
+        width: 445px;
+    }
+    img {
+        width: 220px;
+    }
+    .div2 {
+         width: 200px; 
+        font-size: 21px;
+        
+    }
+    #readfullnews {
+        font-size:20px;
+      }
+      form {
+        margin-right: 50px;
+      }
+   
+}
